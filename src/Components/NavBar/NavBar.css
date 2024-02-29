@@ -30,7 +30,7 @@
 } */
 
 
-@media (max-width:575.98px) {
+@media (max-width:500px) {
     .nav {
         display: flex;
         justify-content: space-between;
@@ -41,12 +41,12 @@
 
     .nav-logo {
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        font-size: 38px;
+        font-size: 28px;
         font-weight: 500;
     }
 
     .nav-menu {
         font-size: 20px;
-        gap: 40px;
+        gap: 30px;
     }
 }

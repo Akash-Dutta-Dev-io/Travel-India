@@ -12,7 +12,7 @@
     z-index: -1;
 }
 
-@media (max-width:575.98px) {
+@media (max-width:500px) {
 
     .background {
         height: 100%;
